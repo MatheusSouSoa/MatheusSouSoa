@@ -1,6 +1,5 @@
 ### Olá!!! Eu sou Matheus Soares
 
-- 🔭 Back-end e dados ❤ 
 - 🌱 Atualmente aprendendo Java e PHP
 
 <a href="https://github.com/MatheusSouSoa/github-readme-stats">
