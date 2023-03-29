@@ -1,6 +1,6 @@
 ### Olá!!! Eu sou Matheus Soares
 
-- 🌱 Atualmente aprendendo Java e PHP
+- 🌱 Atualmente aprendendo Java
 
 <a href="https://github.com/MatheusSouSoa/convoychat">
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusSouSoa&layout=compact&langs_count=8)](https://github.com/MatheusSouSoa/github-readme-stats" />
