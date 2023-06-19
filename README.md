@@ -28,7 +28,6 @@
   <img align="center" alt="Matheus-gcc" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gcc/gcc-original.svg">
   <img align="center" alt="Matheus-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Matheus-github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-   <img align="center" alt="Matheus-docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   </div>
 
 ## Reach Me Out
