@@ -1,10 +1,11 @@
 ### Olá!!! Eu sou Matheus Soares
 
-- 🌱 Atualmente aprendendo Java
+- 🌱 Desenvolvedor Java springboot e atualmente no caminho de se tornar fullstack node e react
 
-<a href="https://github.com/MatheusSouSoa/convoychat">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusSouSoa&layout=compact&langs_count=8)](https://github.com/MatheusSouSoa/github-readme-stats" />
-</a>
+  <div> 
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bioneoficial&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bioneoficial&layout=compact&langs_count=7&card_width=255&theme=dark"/>
+  </div>
 
 
 ##
@@ -28,6 +29,8 @@
   <img align="center" alt="Matheus-gcc" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gcc/gcc-original.svg">
   <img align="center" alt="Matheus-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Matheus-github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+  <img align="center" alt="Matheus-tailwindcss" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">
+  <img align="center" alt="Matheus-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   </div>
 
 ## Reach Me Out
